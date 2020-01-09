@@ -29,6 +29,7 @@ Used the following to do this project:
 * Jupyter notebook.
 * Matplotlib plotting libraries.
 * Pandas.
+* Citipy.
 
 ## Highlights
 
