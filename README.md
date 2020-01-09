@@ -37,12 +37,10 @@ Used the following to do this project:
 
 * Next, we spend the requisite time necessary to study the OpenWeatherMap API. Based on our initial study,we were able to answer  basic questions about the API: Where do we request the API key? Which Weather API in particular will I need? What URL endpoints does it expect? What JSON structure does it respond with? Before we write a line of code, we were aiming to have a crystal clear understanding of our intended outcome.
 
-* A starter code for Citipy has been provided. However, if you're craving an extra challenge, push yourself to learn how it works: [citipy Python library](https://pypi.python.org/pypi/citipy). Before you try to incorporate the library into your analysis, start by creating simple test cases outside your main script to confirm that you are using it correctly. Too often, when introduced to a new library, students get bogged down by the most minor of errors -- spending hours investigating their entire code -- when, in fact, a simple and focused test would have shown their basic utilization of the library was wrong from the start. Don't let this be you!
+* We used citipy: [citipy Python library](https://pypi.python.org/pypi/citipy). Before we tried to incorporate the library into our analysis, we started by creating simple test cases outside our main script to confirm that we are using it correctly. 
 
-* Part of our expectation in this challenge is that you will use critical thinking skills to understand how and why we're recommending the tools we are. What is Citipy for? Why would you use it in conjunction with the OpenWeatherMap API? How would you do so?
 
-* In building your script, pay attention to the cities you are using in your query pool. Are you getting coverage of the full gamut of latitudes and longitudes? Or are you simply choosing 500 cities concentrated in one region of the world? Even if you were a geographic genius, simply rattling 500 cities based on your human selection would create a biased dataset. Be thinking of how you should counter this. (Hint: Consider the full range of latitudes).
+* In building our script, we paid attention to the cities we are using in our query pool. In fact,we Consider the full range of latitudes).
 
-* Lastly, remember -- this is a challenging activity. Push yourself! If you complete this task, then you can safely say that you've gained a strong mastery of the core foundations of data analytics and it will only go better from here. Good luck!
 
 
