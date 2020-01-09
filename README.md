@@ -17,7 +17,7 @@ The objective was to build a series of scatter plots to showcase the following r
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
-The final notebook has follwowing:
+The final notebook has following:
 
 * Selected 500 unique (non-repeat) cities based on latitude and longitude.
 * Performed a weather check on each of the cities using a series of successive API calls.
