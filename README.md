@@ -8,7 +8,7 @@ Whether financial, political, or social -- data's true power lies in its ability
 
 ## WeatherPy
 
-In this example, we created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, we utilized a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
+In this project, we created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, we utilized a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
 The objective was to build a series of scatter plots to showcase the following relationships:
 
@@ -45,6 +45,4 @@ Used the following to do this project:
 
 * Lastly, remember -- this is a challenging activity. Push yourself! If you complete this task, then you can safely say that you've gained a strong mastery of the core foundations of data analytics and it will only go better from here. Good luck!
 
-## Copyright
 
-Data Boot Camp © 2018. All Rights Reserved.
