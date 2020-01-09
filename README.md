@@ -1,7 +1,7 @@
 ### Project : What's the Weather Like?
 
 
-Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. We used Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
+Whether financial, political, or social - data's true power lies in its ability to answer questions definitively. We used Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
 
 ![Equator](Images/equatorsign.png)
