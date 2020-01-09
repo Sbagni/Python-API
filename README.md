@@ -17,28 +17,25 @@ The objective was to build a series of scatter plots to showcase the following r
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
-Your final notebook must:
+The final notebook has follwowing:
 
-* Randomly select **at least** 500 unique (non-repeat) cities based on latitude and longitude.
-* Perform a weather check on each of the cities using a series of successive API calls.
-* Include a print log of each city as it's being processed with the city number and city name.
-* Save both a CSV of all data retrieved and png images for each scatter plot.
+* Selected 500 unique (non-repeat) cities based on latitude and longitude.
+* Performed a weather check on each of the cities using a series of successive API calls.
+* Included a print log of each city as it's being processed with the city number and city name.
+* Saved both a CSV of all data retrieved and png images for each scatter plot.
 
-As final considerations:
+Used the following to do this project:
 
-* You must complete your analysis using a Jupyter notebook.
-* You must use the Matplotlib or Pandas plotting libraries.
-* You must include a written description of three observable trends based on the data.
-* You must use proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
-* See [Example Solution](WeatherPy_Example.pdf) for a reference on expected format.
+* Jupyter notebook.
+* Matplotlib or Pandas plotting libraries.
 
-## Hints and Considerations
+## Highlights
 
 * The city data is generated based on random coordinates; as such, your outputs will not be an exact match to the provided starter notebook.
 
-* You may want to start this assignment by refreshing yourself on the [geographic coordinate system](http://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/about-geographic-coordinate-systems.htm).
+* Used this link to do the analysis [geographic coordinate system](http://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/about-geographic-coordinate-systems.htm).
 
-* Next, spend the requisite time necessary to study the OpenWeatherMap API. Based on your initial study, you should be able to answer  basic questions about the API: Where do you request the API key? Which Weather API in particular will you need? What URL endpoints does it expect? What JSON structure does it respond with? Before you write a line of code, you should be aiming to have a crystal clear understanding of your intended outcome.
+* Next, I spend the requisite time necessary to study the OpenWeatherMap API. Based on your initial study,I was able to answer  basic questions about the API: Where do we request the API key? Which Weather API in particular will I need? What URL endpoints does it expect? What JSON structure does it respond with? Before you write a line of code, you should be aiming to have a crystal clear understanding of your intended outcome.
 
 * A starter code for Citipy has been provided. However, if you're craving an extra challenge, push yourself to learn how it works: [citipy Python library](https://pypi.python.org/pypi/citipy). Before you try to incorporate the library into your analysis, start by creating simple test cases outside your main script to confirm that you are using it correctly. Too often, when introduced to a new library, students get bogged down by the most minor of errors -- spending hours investigating their entire code -- when, in fact, a simple and focused test would have shown their basic utilization of the library was wrong from the start. Don't let this be you!
 
