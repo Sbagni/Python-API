@@ -42,7 +42,7 @@ Used the following to do this project:
 * We used citipy: [citipy Python library](https://pypi.python.org/pypi/citipy). Before we tried to incorporate the library into our analysis, we started by creating simple test cases outside our main script to confirm that we are using it correctly. 
 
 
-* In building our script, we paid attention to the cities we are using in our query pool. In fact,we Consider the full range of latitudes).
+* In building our script, we paid attention to the cities we are using in our query pool. In fact,we Consider the full range of latitudes. It was a project where I learned a lot about how to work with APIs.
 
 
 
