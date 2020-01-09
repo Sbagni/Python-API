@@ -27,7 +27,8 @@ The final notebook has following:
 Used the following to do this project:
 
 * Jupyter notebook.
-* Matplotlib or Pandas plotting libraries.
+* Matplotlib plotting libraries.
+* Pandas.
 
 ## Highlights
 
